@@ -24,6 +24,15 @@ Il2CppBinaryAnalyzer/bin/
 WasmDisassembler/obj/
 WasmDisassembler/bin/
 
+Cpp2IL.*/obj/
+Cpp2IL.*/bin/
+
+# Because these are a pain when switching branches
+StableNameDotNet/obj/
+StableNameDotNet/bin/
+artifacts/
+NuGet.Config
+
 .vs
 
 *.user
